@@ -7,4 +7,4 @@
 
 #define GamePackageName "com.game.packagename"
 
-#endif //ZYGISK_IL2CPPDUMPER_GAME_H
+#define GamePackageName "com.bmystu.peng.gw"
